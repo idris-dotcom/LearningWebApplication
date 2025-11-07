@@ -1,0 +1,7 @@
+D:\PracticeProjects\LearningWebApplication\bin\Publish\LearningWebApplication.exe
+D:\PracticeProjects\LearningWebApplication\bin\Publish\appsettings.Development.json
+D:\PracticeProjects\LearningWebApplication\bin\Publish\appsettings.json
+D:\PracticeProjects\LearningWebApplication\bin\Publish\LearningWebApplication.dll
+D:\PracticeProjects\LearningWebApplication\bin\Publish\LearningWebApplication.deps.json
+D:\PracticeProjects\LearningWebApplication\bin\Publish\LearningWebApplication.runtimeconfig.json
+D:\PracticeProjects\LearningWebApplication\bin\Publish\LearningWebApplication.pdb
