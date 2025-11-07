@@ -94,3 +94,4 @@ D:\PracticeProjects\LearningWebApplication\obj\Debug\net9.0\refint\LearningWebAp
 D:\PracticeProjects\LearningWebApplication\obj\Debug\net9.0\LearningWebApplication.pdb
 D:\PracticeProjects\LearningWebApplication\obj\Debug\net9.0\LearningWebApplication.genruntimeconfig.cache
 D:\PracticeProjects\LearningWebApplication\obj\Debug\net9.0\ref\LearningWebApplication.dll
+D:\PracticeProjects\LearningWebApplication\obj\Debug\net9.0\LearningWebApplication.sourcelink.json
